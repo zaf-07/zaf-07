@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Zafar Azatov</h1>
 
-<!--
-**zaf-07/zaf-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Software Engineer · AI/ML · Backend Systems</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/zafarazatov">LinkedIn</a> ·
+  <a href="https://github.com/zaf-07">GitHub</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I'm a Computer Science student at **San Francisco Bay University** building **AI/ML and backend systems** for real-world use.
+
+Right now I:
+
+- Work as an **IT Specialist at SFBU**
+- Co-founded **Meritpath Consulting**
+- Build internal tools for SFBU's IT department
+
+---
+
+## What I'm Working On
+
+- **FireWatch AI**: real-time wildfire detection system
+  → pushing it toward research-grade work
+- **FORGE**: agentic build-and-audit software factory (Zero Downtime Hackathon, 2026)
+- **SA Inventory Platform**: IT equipment inventory platform for SFBU
+- **Rack Port Map**: cable-management web app for SFBU's network closet
+
+---
+
+## Tech Stack
+
+Python · Java · FastAPI · Django · Flutter · Firebase · CI/CD · Cloud
+
+---
+
+## Certifications
+
+Google Cybersecurity · IBM Cloud / Software Engineering · Stanford Algorithms · FastAPI
