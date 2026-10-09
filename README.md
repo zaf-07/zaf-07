@@ -32,47 +32,13 @@ Computer Science student at **San Francisco Bay University** building production
 
 ---
 
-### 🔭 Featured Projects
+## 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔥 FireWatch AI</h4>
-      <p><b>🥉 3rd Place, Verizon BayHack 2.0.</b> Real-time wildfire detection fusing 1,200+ camera feeds, GOES-18 satellite thermal data, and PurpleAir sensors, cutting detection to <b>under 4 minutes</b> vs. a ~60-minute baseline.</p>
-      <code>Python</code> <code>FastAPI</code> <code>YOLOv8</code> <code>GPT-4o Vision</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ FORGE</h4>
-      <p>Agentic pipeline that implements a feature from a plain-English brief, audits the codebase across 17 checks, patches findings, and opens a PR, gated behind human approval. Owned observability with OpenTelemetry → SigNoz.</p>
-      <code>Python</code> <code>FastAPI</code> <code>OpenTelemetry</code> <code>SigNoz</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ KryptosProof</h4>
-      <p>Multi-agent web security platform (HackHayward 2026). Red-team agents run sqlmap, Nuclei, FFUF & ZAP in isolated containers; a blue-team agent generates and verifies patches, with a signed audit report.</p>
-      <code>pydantic-ai</code> <code>Docker</code> <code>FastAPI</code> <code>Next.js</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 SA Inventory Platform</h4>
-      <p>IT operations platform <b>in production</b> at SFBU, built as one of 3 engineers. Nine modules: asset & license inventory, serial tracking, approval workflows, and severity-based issue triage.</p>
-      <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💬 TextShop</h4>
-      <p>Agent-run pitch-deck business operating entirely over iMessage. Built at the Terac Zero-Human Company Hackathon.</p>
-      <code>AI Agents</code> <code>LLM APIs</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔌 Rack Port Map</h4>
-      <p>Cable-management web app for mapping SFBU IT's network closet.</p>
-      <code>Web App</code> <code>Networking</code>
-    </td>
-  </tr>
-</table>
-
+| | |
+|---|---|
+| **🔬 Phys.io** <br><br> Autonomous 22-agent research lab across 6 departments. Discovered a 4-layer radiative-cooling stack hitting **57.9 W/m²** — beating the 50 W/m² target and the landmark Stanford 7-layer design, with no rare-earth materials. Owned the benchmark and the full UI. <br><br> `Omnigent` `FastAPI` `Python` `React` `three.js` | **🏭 SA Inventory Platform** <br><br> IT operations platform **in production** at SFBU, built as one of 3 engineers. Nine modules: asset & license inventory, serial tracking, approval workflows, and severity-based issue triage. <br><br> `React` `TypeScript` `FastAPI` `PostgreSQL` |
+| **⚙️ FORGE** <br><br> Agentic pipeline that implements a feature from a plain-English brief, audits the codebase across 17 checks, patches findings, and opens a PR, gated behind human approval. Owned observability with OpenTelemetry → SigNoz. <br><br> `Python` `FastAPI` `OpenTelemetry` `SigNoz` | **🔥 FireWatch AI** <br><br> **3rd Place, Verizon BayHack 2.0.** Real-time wildfire detection fusing 1,200+ camera feeds, satellite thermal data, and PurpleAir sensors — cutting detection to **under 4 minutes** vs. a ~60-minute baseline. <br><br> `Python` `FastAPI` `YOLOv8` `GPT-4o Vision` |
+| **🛡️ KryptosProof** <br><br> Multi-agent web security platform (HackHayward 2026). Red-team agents run sqlmap, Nuclei, FFUF & ZAP in isolated containers; a blue-team agent generates and verifies patches, with a signed audit report. <br><br> `pydantic-ai` `Docker` `FastAPI` `Next.js` | **💬 TextShop** <br><br> Agent-run pitch-deck business operating entirely over iMessage. Built at the Terac Zero-Human Company Hackathon. <br><br> `AI Agents` `LLM APIs` `Stripe` |
 ---
 
 ### 💼 Experience
